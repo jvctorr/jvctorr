@@ -86,13 +86,11 @@ Vídeo             → Edição, criativos e composições visuais
 ```txt
 Email    → Jvictor76900@gmail.com
 GitHub   → github.com/jvctrr
-WhatsApp → +55 85 98630-1108
 Discord  → Hitorishh
 ```
 
 <p align="center">
   <a href="mailto:Jvictor76900@gmail.com">Email</a> •
-  <a href="https://wa.me/5585986301108">WhatsApp</a> •
   <a href="https://github.com/jvctrr">GitHub</a>
 </p>
 
