@@ -62,25 +62,6 @@ Vídeo             → Edição, criativos e composições visuais
 
 ---
 
-### Projetos em destaque
-
-<p align="left">
-  <a href="https://github.com/jvctrr/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvctrr&repo=portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" />
-  </a>
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvctrr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvctrr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
-</p>
-
----
-
 ### Contato
 
 ```txt
